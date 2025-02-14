@@ -1,5 +1,5 @@
 ---
-title: FAkhar
+title: Google  adkabv
 description: This is JavaScript tutorial and this is for learning JavaScript
 slug: Fakhar
 date: 11/02/2025

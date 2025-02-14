@@ -4,7 +4,7 @@ import Link from 'next/link';
 import fs from "fs";
 import matter from 'gray-matter';
 
-import Image from 'next/image';
+import Image from 'next/image':
 
 const dirContent = fs.readdirSync("content", "utf-8")
 
